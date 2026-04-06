@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+.start {
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.VOLUMEN {
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+}
+#Vol_det {
+    color: black;
+    background-color: cornflowerblue;
+}
