@@ -17,3 +17,13 @@ body {
     background-color: cornflowerblue;
     cursor: pointer;
 }
+#ENTRY {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100vh;
+    user-select: none;
+    pointer-events: none;
+    z-index: -1
+}
