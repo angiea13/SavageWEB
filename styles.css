@@ -15,4 +15,5 @@ body {
 #Vol_det {
     color: black;
     background-color: cornflowerblue;
+    cursor: pointer;
 }
